@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 target
 .git
 .gitignore
-=======
-target/
-.git/
-.gitignore
-README.md
->>>>>>> c60038ecc6985c1791694d233471c8610bd2145c
 *.log
